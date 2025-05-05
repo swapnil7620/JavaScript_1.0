@@ -1,6 +1,6 @@
 
 /* Method and Function are same in js*/
-/* Object having a property  but it and a behaviour is called method*/
+/* Object having a property  but it has a behaviour is called method*/
 
 
 // let Laptop = {
